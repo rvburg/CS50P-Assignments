@@ -1,6 +1,0 @@
-# prompt the user for input
-# then outputs the reponse in lowercase
-# output must be unchanged
-
-shout = input("Shout something at me, would you please? ")
-print("Woah! Inside voice please. How about: " + str.lower(shout))
